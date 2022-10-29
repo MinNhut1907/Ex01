@@ -1,0 +1,51 @@
+ {
+     "teacher": [{
+             "lastname": "Nguyen",
+             "firstname": "Quan",
+             "age": "34",
+             "gender": "Male",
+             "subject": "Math"
+         },
+         {
+             "lastname": "Nguyen",
+             "firstname": "Tram",
+             "age": "30",
+             "gender": "FeMale",
+             "subject": "English"
+         }
+     ],
+     "Student": [{
+             "lastname": "Nguyen",
+             "firstname": "Tam",
+             "age": "18",
+             "gender": "Male",
+             "markofmath": "8",
+             "markofenglish": "7"
+         },
+         {
+             "lastname": "Nguyen",
+             "firstname": "Linh",
+             "age": "18",
+             "gender": "FeMale",
+             "markofmath": "8",
+             "markofenglish": "6"
+         },
+         {
+             "lastname": "Tran",
+             "firstname": "Nhu",
+             "age": "18",
+             "gender": "FeMale",
+             "markofmath": "9",
+             "markofenglish": "8"
+         },
+         {
+             "lastname": "Nguyen",
+             "firstname": "Tu",
+             "age": "18",
+             "gender": "Male",
+             "markofmath": "8",
+             "markofenglish": "5"
+         }
+     ]
+
+ }
